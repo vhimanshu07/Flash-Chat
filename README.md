@@ -3,7 +3,7 @@
 
 # Flash Chat ⚡️
 
-It is chatting application which is based on firebase ,in which user can chat just like whatsapp .
+It is chatting application which uses firebase as database ,in which user can chat just like whatsapp , I tried to make the UI as interactive as possible.
 Images are provided below check them out
 
 
